@@ -33,12 +33,12 @@
   "dependencies": {},
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@devjskit/biome-config": "^0.1.13",
-    "@types/bun": "^1.1.13",
-    "@types/node": "^22.9.0",
-    "@types/web": "^0.0.180",
+    "@devjskit/biome-config": "^0.1.14",
+    "@types/bun": "^1.1.14",
+    "@types/node": "^22.10.1",
+    "@types/web": "^0.0.186",
     "tsup": "^8.3.5",
-    "typescript": "^5.6.3"
+    "typescript": "^5.7.2"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
